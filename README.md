@@ -310,7 +310,7 @@
   </code>
 </pre>
 
-# ROUTER SUIÇA --- TEM SENHA!!!
+# ROUTER SUIÇA
 
 <pre>
   <code>
@@ -341,7 +341,7 @@
 
 ---
 
-# SWITCH PARIS --- TEM SENHA!!!
+# SWITCH PARIS
 
 <pre>
   <code>
